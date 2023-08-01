@@ -2,3 +2,5 @@
 =================
 [2023-07-31 12:04:15] Текст ошибки: exception | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 12
 =================
+[2023-08-01 10:20:09] Текст ошибки: Undefined array key "controller" | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 51
+=================
