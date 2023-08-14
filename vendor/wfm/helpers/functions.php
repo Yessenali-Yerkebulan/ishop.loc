@@ -1,12 +1,14 @@
 <?php
 
-function debug($data, $die = false){
-    echo '<pre>'.print_r($data, 1).'</pre>';
-    if($die){
+function debug($data, $die = false)
+{
+    echo '<pre>' . print_r($data, 1) . '</pre>';
+    if ($die) {
         die;
     }
 }
 
-function h($str){
+function h($str)
+{
     return htmlspecialchars($str);
 }

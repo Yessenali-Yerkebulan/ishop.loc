@@ -1,6 +1,120 @@
-[2023-07-31 12:03:50] Текст ошибки: Undefined variable $trs | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 12
+[2021-11-07 11:34:43] Текст ошибки: Undefined variable $test | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 13
 =================
-[2023-07-31 12:04:15] Текст ошибки: exception | Файл: C:\OSPanel\domains\new-ishop.loc\public\index.php | Строка: 12
+[2021-11-07 11:35:31] Текст ошибки: Undefined variable $test | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 13
 =================
-[2023-08-01 10:20:09] Текст ошибки: Undefined array key "controller" | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 51
+[2021-11-07 11:35:49] Текст ошибки: Возникла ошибочка! | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 11
+=================
+[2021-11-07 11:39:43] Текст ошибки: Возникла ошибочка! | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 11
+=================
+[2021-11-07 13:53:27] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 35
+=================
+[2021-11-07 13:59:20] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 38
+=================
+[2021-11-07 14:01:07] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 42
+=================
+[2021-11-07 14:01:12] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 42
+=================
+[2021-11-07 14:01:30] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 42
+=================
+[2021-11-07 14:01:45] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 39
+=================
+[2021-11-07 14:02:51] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 42
+=================
+[2021-11-07 14:03:02] Текст ошибки: Метод app\controllers\PageController::viewAction не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 39
+=================
+[2021-11-07 14:03:34] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 42
+=================
+[2021-11-07 14:04:08] Текст ошибки: Метод app\controllers\admin\MainController::indexAction не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 39
+=================
+[2021-11-07 14:05:38] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:22:24] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:23:12] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:25:52] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:26:06] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:26:15] Текст ошибки: Метод app\controllers\PageController::viewsAction не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 39
+=================
+[2021-11-08 13:26:37] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:28:11] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:28:44] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:29:08] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2021-11-08 13:55:38] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2021-11-08 14:16:18] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 49
+=================
+[2021-11-08 14:16:25] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 49
+=================
+[2021-11-08 14:22:07] Текст ошибки: Не найден вид D:\Server538\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+=================
+[2021-11-08 14:22:23] Текст ошибки: Не найден вид D:\Server538\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+=================
+[2021-11-08 14:22:34] Текст ошибки: Не найден вид D:\Server538\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+=================
+[2021-11-08 14:23:12] Текст ошибки: Не найден вид D:\Server538\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 34
+=================
+[2021-11-08 14:26:26] Текст ошибки: Не найден шаблон D:\Server538\OpenServer\domains\new-ishop.loc/app/views/layouts/ishop.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+=================
+[2021-11-08 14:26:52] Текст ошибки: Не найден шаблон D:\Server538\OpenServer\domains\new-ishop.loc/app/views/layouts/test.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+=================
+[2021-11-08 14:27:32] Текст ошибки: Не найден шаблон D:\Server538\OpenServer\domains\new-ishop.loc/app/views/layouts/test2.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+=================
+[2021-11-08 14:27:47] Текст ошибки: Не найден шаблон D:\Server538\OpenServer\domains\new-ishop.loc/app/views/layouts/ishop.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 44
+=================
+[2021-11-09 11:10:11] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:10:34] Текст ошибки: Undefined variable $test | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\views\Main\index.php | Строка: 2
+=================
+[2021-11-09 11:10:56] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:12:33] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:18:15] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:19:00] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:19:37] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:19:50] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:20:12] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:22:30] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:24:34] Текст ошибки: Undefined variable $test | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\views\Main\index.php | Строка: 3
+=================
+[2021-11-09 11:25:02] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:25:32] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:26:49] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:27:19] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:53:45] Текст ошибки: Call to a member function find() on null | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1010
+=================
+[2021-11-09 11:53:45] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
+=================
+[2021-11-09 11:56:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 15
+=================
+[2021-11-09 11:57:39] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 17
+=================
+[2021-11-09 11:58:10] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 17
+=================
+[2021-11-09 11:58:44] Текст ошибки: compact(): Undefined variable $names | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 21
+=================
+[2023-08-14 08:08:19] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\newishop\vendor\wfm\Db.php | Строка: 19
+=================
+[2023-08-14 08:08:19] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\newishop\vendor\wfm\Router.php | Строка: 63
+=================
+[2023-08-14 08:08:44] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\newishop\vendor\wfm\Router.php | Строка: 63
+=================
+[2023-08-14 08:12:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 63
 =================

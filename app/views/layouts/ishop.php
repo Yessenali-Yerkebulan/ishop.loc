@@ -3,6 +3,7 @@
 use wfm\View;
 
 /** @var $this View */
+
 ?>
 <!doctype html>
 <html lang="en">
@@ -14,6 +15,8 @@ use wfm\View;
     <?= $this->getMeta() ?>
 </head>
 <body>
-    <?= $this->content; ?>
+
+<?= $this->content; ?>
+
 </body>
 </html>
